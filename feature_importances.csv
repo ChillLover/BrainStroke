@@ -1,0 +1,19 @@
+feature,importance,importance_fraction
+num_pipe__age,0.16891281,0.16891283
+cat_pipe__ever_married_Yes,0.116773985,0.116774
+cat_pipe__smoking_status_never smoked,0.09009764,0.09009765
+cat_pipe__ever_married_No,0.07903266,0.07903267
+cat_pipe__work_type_Private,0.066384204,0.06638421
+cat_pipe__smoking_status_smokes,0.056296922,0.05629693
+cat_pipe__smoking_status_formerly smoked,0.052523226,0.052523233
+cat_pipe__work_type_Govt_job,0.04651168,0.046511684
+cat_pipe__work_type_Self-employed,0.04496777,0.044967774
+cat_pipe__residence_type_Rural,0.040314376,0.04031438
+cat_pipe__smoking_status_Unknown,0.039682597,0.0396826
+cat_pipe__gender_Female,0.0354907,0.035490703
+cat_pipe__residence_type_Urban,0.0318079,0.031807903
+cat_pipe__gender_Male,0.031039193,0.031039197
+num_pipe__heart_disease,0.03078004,0.030780043
+num_pipe__bmi,0.02437744,0.024377443
+num_pipe__glucose_level,0.0237927,0.023792705
+num_pipe__hypertension,0.021214098,0.0212141
