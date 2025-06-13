@@ -9,3 +9,4 @@ phik
 imbalanced-learn
 optuna
 catboost
+boto3
